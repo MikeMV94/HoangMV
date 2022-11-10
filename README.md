@@ -24,6 +24,4 @@ Hoang := {
 
 
 #####📫 How to reach me!
-<p href="https://www.linkedin.com/in/mai-hoang-256206144/">
-  <img align="left" alt="HoangMV's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</p>
+:office: [LinkedIn](https://www.linkedin.com/in/mai-hoang-256206144/)
