@@ -1,6 +1,6 @@
 <h2 align='center'> Hi👋, I'm Hoang! <img src="https://gophercises.com/img/gophercises_punching.gif" width="50"></h2>
 <img align='right' src="https://media.tenor.com/IwxGErroyGAAAAAC/engineer-fixed.gif" width="230">
-<p>💼<em> Software Enginner at <img src="https://static.recruitery.co/uploads/images/manabie_20210111105233.png" width="170" align = 'center'></br>
+<p>💼<em> A Software Enginner (Backend with Golang, PC-App with C/C++ And QT/QML" width="170" align = 'center'></br>
 </em></p>
 <p>📚 languages and tools:</p>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
