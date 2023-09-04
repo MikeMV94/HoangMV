@@ -14,10 +14,10 @@
 
 ```go
 Hoang := {
-    engName: "Harry"
-    code: []string{"Go", "C++", "Python"},
-    tools: []string{"vscode", "Git", "QT", "Docker"},
-    framework:[]string{"Fiber", "echo", "QT", "MFC", "Django"}
+    engName: "Mike"
+    code: []string{"Go", "C/C++", "Python", "PHP", "Rust"},
+    tools: []string{"vscode", "Git", "QT/QML", "Docker"},
+    framework:[]string{"Fiber", "echo", "QT", "MFC", "Django", "Dtm"}
     architecture: []string{"microservices", "event-driven", "design system pattern", "DDD", "Clean architecture", "Saga Pattern"},
 }
 ```
